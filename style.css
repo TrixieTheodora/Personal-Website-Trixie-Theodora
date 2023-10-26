@@ -1,0 +1,110 @@
+* {
+    font-family: 'Abril Fatface', serif;
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    height: 110px;
+    font-size: 25px;
+    background-color: #5C2C6A;
+    position: fixed !important;
+    width: 100%;
+    z-index: 1;
+
+}
+
+.active {
+    font-weight: bold;
+}
+
+.btn-primary{
+    background-color: #BF6E97;
+    font-weight: bold;
+    font-family: 'Lato';
+    font-size: 25.9px;
+    color: black;
+    border-radius: 15px;
+    border: none;
+}
+
+.peach {
+    color: #F4C5A7 !important;
+}
+
+.dark-purple {
+    background-color: #250D31;
+}
+
+.small-button {
+    width: 259px;
+    height: 70px;
+}
+
+.content{
+    padding-left: 122px;
+    padding-right: 122px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.pink {
+    background-color: #EBA0A5;
+}
+
+.svg {
+    display: block;
+    width: 100%;
+}
+
+.curved-upper {
+    width: 100%;
+
+}
+
+.border-radius-img {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.rolee{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.purple {
+    background-color: #5C2C6A;
+}
+
+.footer {
+    height: 260px;
+}
+
+.btn-primary:hover {
+    background-color: #EBA0A5 !important;
+}
+
+
+.skill-area {
+    border: 1px solid #5C2C6A;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.card {
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.15);
+}
+
+.photo-about-me {
+    transition: all 0.3s;
+}
+ 
+.photo-about-me:hover {
+    transform: scale(1.15);
+}
